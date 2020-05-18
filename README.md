@@ -1,2 +1,2 @@
 # Project-Xanadu
-Public version
+currently in stealth
